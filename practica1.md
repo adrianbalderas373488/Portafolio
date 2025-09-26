@@ -84,3 +84,5 @@
 - **Punteros:** `book_t *library`, `member_t *members`, `void *pointer`.
 
 ---
+## REFERENCIAS
+## https://github.com/adrianbalderas373488/Portafolio
