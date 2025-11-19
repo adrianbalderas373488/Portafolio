@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Paginita Paradigmas De La Programacion'
+theme = 'ananke'
